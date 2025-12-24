@@ -1,0 +1,7 @@
+{
+  "name": "MultiTools AI Pro",
+  "description": "The ultimate browser-based toolkit: 150+ professional utilities for images, code, text, and math, supercharged with Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
